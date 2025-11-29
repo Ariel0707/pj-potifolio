@@ -49,5 +49,5 @@ header{
 }
 #menu a:hover{
   background-color: var(--destaque-inverso);
-  color: var(--destaque);
+  color: var(--texto-inverso);
 }
